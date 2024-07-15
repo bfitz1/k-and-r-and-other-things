@@ -1,7 +1,7 @@
 # K & R & Other Things
 
 Never actually went through this book, and it's a convenient enough excuse
-to brush on C.
+to brush up on C.
 
 ## Goals
 
