@@ -4,6 +4,7 @@ Never actually went through this book, and it's a convenient enough excuse
 to brush up on C.
 
 ## Goals
+Roughly in order of likelihood:
 
 - [ ] Read the entire book
 - [ ] Complete most of the exercises
